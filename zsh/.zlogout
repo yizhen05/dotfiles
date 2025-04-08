@@ -1,0 +1,1 @@
+/home/keyizhen/.zprezto/runcoms/zlogout
